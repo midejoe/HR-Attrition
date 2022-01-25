@@ -49,3 +49,6 @@ The data contains demographic details, work-related metrics and attrition flag.
 * YearsInCurrentRole - Years in the current role
 * YearsSinceLastPromotion - Years since the last promotion
 * YearsWithCurrManager - Years with the current manager
+
+
+I built a Decision Tree Model, a Bagging Classifier and Random Tree Model. I compared all three models to choose the best performance model based on their Recall, Precision and F1 score.
